@@ -1,0 +1,2 @@
+# seminar
+Master's seminar
